@@ -1,0 +1,7 @@
+# This file will be populated once checkpoints are deposited on Zenodo.
+# Generate with:
+#   cd checkpoints && find stage1 loso scanner -type f -name '*.pt' -print0 \
+#       | xargs -0 sha256sum > SHA256SUMS.txt
+#
+# Format: one line per checkpoint, "<sha256>  <relative path>".
+# download.sh refuses any file that does not match a digest listed here.
