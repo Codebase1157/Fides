@@ -1,0 +1,9 @@
+[2026-07-20T10:47:54.241268] INFO  variant=natural_views_to_salience_masking, dataset=rest_meta_mdd
+[2026-07-20T10:47:54.241268] INFO  running 6 LOSO folds, 100 epochs each
+[2026-07-20T11:33:24.849723] INFO  fold 0  acc=67.00  auc=70.63  site_bacc=26.42
+[2026-07-20T12:14:10.361012] INFO  fold 1  acc=65.79  auc=69.35  site_bacc=29.60
+[2026-07-20T13:02:47.399504] INFO  fold 2  acc=65.24  auc=71.47  site_bacc=31.24
+[2026-07-20T13:48:28.546874] INFO  fold 3  acc=66.26  auc=71.93  site_bacc=28.86
+[2026-07-20T14:37:40.322406] INFO  fold 4  acc=67.62  auc=70.92  site_bacc=28.13
+[2026-07-20T15:25:56.168971] INFO  fold 5  acc=65.34  auc=72.36  site_bacc=27.99
+[2026-07-20T15:25:56.168971] INFO  mean  acc=66.39  auc=71.37  site_bacc=29.42

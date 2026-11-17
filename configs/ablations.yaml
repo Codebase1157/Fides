@@ -1,0 +1,36 @@
+# Ablation configurations behind Table VII.
+# Each variant toggles one component relative to the full FIDES config.
+
+base: stage2_loso_abide.yaml   # same base used for REST-meta-MDD
+
+variants:
+  - name: w_o_v1_halves
+    disable_views: [v1]
+  - name: w_o_v2_sessions
+    disable_views: [v2]
+  - name: w_o_v3_traveling_subjects
+    disable_views: [v3]
+  - name: w_o_v4_cross_site
+    disable_views: [v4]
+  - name: w_o_v5_combat_pairs
+    disable_views: [v5]
+  - name: natural_views_to_salience_masking
+    replace_views: salience_masking
+  - name: w_o_hsic
+    loss:
+      mu: 0.0
+  - name: w_o_decoder
+    model:
+      disable_decoder: true
+  - name: w_o_stage1_pretraining
+    pretrained: null
+  - name: single_prototype
+    prototypes:
+      n_prototypes: 1
+  - name: motformer_to_brainnettf
+    model:
+      encoder_variant: brainnettf
+  - name: cc200_to_aal3
+    model:
+      atlas: aal3
+      n_rois: 166

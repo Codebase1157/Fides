@@ -1,0 +1,9 @@
+[2026-07-22T16:58:39.092096] INFO  variant=cc200_to_aal3_atlas, dataset=rest_meta_mdd
+[2026-07-22T16:58:39.092096] INFO  running 6 LOSO folds, 100 epochs each
+[2026-07-22T17:42:11.509139] INFO  fold 0  acc=67.98  auc=73.54  site_bacc=16.39
+[2026-07-22T18:27:57.903680] INFO  fold 1  acc=68.25  auc=71.65  site_bacc=18.90
+[2026-07-22T19:14:49.552024] INFO  fold 2  acc=66.50  auc=74.14  site_bacc=20.38
+[2026-07-22T20:02:00.926693] INFO  fold 3  acc=68.66  auc=71.94  site_bacc=19.47
+[2026-07-22T20:43:45.356845] INFO  fold 4  acc=68.43  auc=74.78  site_bacc=18.71
+[2026-07-22T21:31:06.153476] INFO  fold 5  acc=66.19  auc=73.54  site_bacc=18.94
+[2026-07-22T21:31:06.153476] INFO  mean  acc=67.98  auc=72.73  site_bacc=19.19

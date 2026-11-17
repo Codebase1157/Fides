@@ -1,0 +1,9 @@
+[2026-07-19T21:12:38.943279] INFO  variant=w_o_v5_combat_pairs, dataset=abide
+[2026-07-19T21:12:38.943279] INFO  running 6 LOSO folds, 100 epochs each
+[2026-07-19T21:55:07.640852] INFO  fold 0  acc=71.85  auc=76.42  site_bacc=23.36
+[2026-07-19T22:35:23.876076] INFO  fold 1  acc=71.88  auc=76.06  site_bacc=23.63
+[2026-07-19T23:23:39.811809] INFO  fold 2  acc=71.61  auc=74.92  site_bacc=23.30
+[2026-07-20T00:08:53.017710] INFO  fold 3  acc=72.09  auc=75.66  site_bacc=23.60
+[2026-07-20T00:52:16.256762] INFO  fold 4  acc=70.83  auc=76.35  site_bacc=22.90
+[2026-07-20T01:37:00.542277] INFO  fold 5  acc=71.10  auc=76.90  site_bacc=19.85
+[2026-07-20T01:37:00.542277] INFO  mean  acc=71.08  auc=75.62  site_bacc=22.82

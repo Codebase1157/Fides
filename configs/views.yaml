@@ -1,0 +1,19 @@
+seed: 20260101
+out_root: data/processed/views
+
+v1:
+  ts_root: data/processed/dparsf/concat_ts
+  subjects: &all_subjects []   # populated at runtime by build_views.py
+
+v2:
+  sessions_csv: data/metadata/hcp_participants.csv
+
+v3:
+  ts_sessions_csv: data/metadata/srpbs_ts_sessions.csv
+
+v4:
+  participants_csv: data/metadata/abide_participants.csv
+  k_per_subject: 2
+
+v5:
+  subjects: *all_subjects

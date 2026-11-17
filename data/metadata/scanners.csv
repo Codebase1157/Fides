@@ -1,0 +1,16 @@
+site,scanner_manufacturer,scanner_model,role_stage1,ts_sessions,release_asd,release_mdd,release_nc,test_asd,test_mdd,test_nc,fides_status
+ATT,Siemens,TimTrio,yes,10,0,0,13,0,0,7,Seen in Stage 1
+ATV,Siemens,Verio,yes,12,0,0,39,0,0,21,Seen in Stage 1
+SWA,Siemens,Verio,yes,14,115,0,101,103,0,55,Seen in Stage 1
+HUH,GE,Signa HDxt,yes,13,0,57,67,0,44,36,Seen in Stage 1
+HKH,Siemens,Spectra,yes,11,0,33,29,0,25,16,Seen in Stage 1
+COI,Siemens,Verio Dot,yes,12,0,71,124,0,55,67,Seen in Stage 1
+KUT,Siemens,TimTrio,yes,13,0,16,159,0,12,86,Seen in Stage 1
+UTO,GE,MR750w,yes,11,10,62,96,9,48,52,Seen in Stage 1
+HRC,GE,Signa HDxt,no,0,0,16,49,0,12,27,Unseen
+KTT,Siemens,Trio,no,0,0,0,75,0,0,41,Unseen
+CIN,Siemens,TimTrio,no,0,0,0,39,0,0,20,Unseen
+KPU,Philips,Achieva,yes,12,0,0,0,0,0,0,Stage 1 only
+KUS,Siemens,Skyra,yes,13,0,0,0,0,0,0,Stage 1 only
+YC1,Philips,Achieva,yes,11,0,0,0,0,0,0,Stage 1 only
+YC2,Philips,Achieva,yes,11,0,0,0,0,0,0,Stage 1 only

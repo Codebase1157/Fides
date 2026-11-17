@@ -1,0 +1,30 @@
+dataset: rest_meta_mdd
+device: cuda
+
+model:
+  atlas: cc200
+  n_rois: 200
+  n_classes: 2
+  sev_head: false
+  encoder:
+    n_rois: 200
+    d_model: 128
+    n_heads: 4
+    n_layers: 2
+    n_hops: 3
+    dropout: 0.2
+    readout_dim: 128
+  d_dis: 32
+  d_id: 32
+  d_site: 16
+  d_state: 16
+
+loss:
+  mu: 1.0
+  w_rec: 0.05
+
+train:
+  epochs: 100
+  batch_size: 32
+  lr: 5.0e-5
+  weight_decay: 1.0e-4

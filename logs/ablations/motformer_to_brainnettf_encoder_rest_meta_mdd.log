@@ -1,0 +1,9 @@
+[2026-07-22T07:59:29.630824] INFO  variant=motformer_to_brainnettf_encoder, dataset=rest_meta_mdd
+[2026-07-22T07:59:29.630824] INFO  running 6 LOSO folds, 100 epochs each
+[2026-07-22T08:49:21.324022] INFO  fold 0  acc=68.05  auc=70.72  site_bacc=21.63
+[2026-07-22T09:30:50.151687] INFO  fold 1  acc=66.45  auc=73.81  site_bacc=22.68
+[2026-07-22T10:14:45.276392] INFO  fold 2  acc=64.56  auc=68.67  site_bacc=22.01
+[2026-07-22T10:58:05.409938] INFO  fold 3  acc=68.26  auc=72.68  site_bacc=20.45
+[2026-07-22T11:40:00.276695] INFO  fold 4  acc=67.85  auc=74.63  site_bacc=22.53
+[2026-07-22T12:22:20.766883] INFO  fold 5  acc=66.16  auc=72.15  site_bacc=22.11
+[2026-07-22T12:22:20.766883] INFO  mean  acc=66.86  auc=71.80  site_bacc=22.23

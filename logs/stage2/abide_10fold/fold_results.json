@@ -1,0 +1,702 @@
+[
+  {
+    "repeat": 0,
+    "fold": 0,
+    "acc": 74.6,
+    "auc": 78.48,
+    "seconds": 190.2
+  },
+  {
+    "repeat": 0,
+    "fold": 1,
+    "acc": 74.88,
+    "auc": 77.13,
+    "seconds": 193.4
+  },
+  {
+    "repeat": 0,
+    "fold": 2,
+    "acc": 73.0,
+    "auc": 78.9,
+    "seconds": 208.1
+  },
+  {
+    "repeat": 0,
+    "fold": 3,
+    "acc": 73.14,
+    "auc": 78.16,
+    "seconds": 211.7
+  },
+  {
+    "repeat": 0,
+    "fold": 4,
+    "acc": 74.94,
+    "auc": 77.35,
+    "seconds": 210.0
+  },
+  {
+    "repeat": 0,
+    "fold": 5,
+    "acc": 71.63,
+    "auc": 78.79,
+    "seconds": 208.9
+  },
+  {
+    "repeat": 0,
+    "fold": 6,
+    "acc": 73.68,
+    "auc": 77.96,
+    "seconds": 194.6
+  },
+  {
+    "repeat": 0,
+    "fold": 7,
+    "acc": 74.54,
+    "auc": 77.75,
+    "seconds": 204.0
+  },
+  {
+    "repeat": 0,
+    "fold": 8,
+    "acc": 74.48,
+    "auc": 79.34,
+    "seconds": 206.0
+  },
+  {
+    "repeat": 0,
+    "fold": 9,
+    "acc": 74.65,
+    "auc": 78.67,
+    "seconds": 201.3
+  },
+  {
+    "repeat": 1,
+    "fold": 0,
+    "acc": 72.84,
+    "auc": 77.26,
+    "seconds": 206.4
+  },
+  {
+    "repeat": 1,
+    "fold": 1,
+    "acc": 73.72,
+    "auc": 79.26,
+    "seconds": 207.2
+  },
+  {
+    "repeat": 1,
+    "fold": 2,
+    "acc": 73.76,
+    "auc": 79.11,
+    "seconds": 212.3
+  },
+  {
+    "repeat": 1,
+    "fold": 3,
+    "acc": 74.25,
+    "auc": 78.04,
+    "seconds": 204.1
+  },
+  {
+    "repeat": 1,
+    "fold": 4,
+    "acc": 73.15,
+    "auc": 79.09,
+    "seconds": 190.0
+  },
+  {
+    "repeat": 1,
+    "fold": 5,
+    "acc": 73.76,
+    "auc": 77.86,
+    "seconds": 210.9
+  },
+  {
+    "repeat": 1,
+    "fold": 6,
+    "acc": 74.7,
+    "auc": 78.96,
+    "seconds": 205.2
+  },
+  {
+    "repeat": 1,
+    "fold": 7,
+    "acc": 75.2,
+    "auc": 76.86,
+    "seconds": 195.7
+  },
+  {
+    "repeat": 1,
+    "fold": 8,
+    "acc": 74.75,
+    "auc": 78.84,
+    "seconds": 205.3
+  },
+  {
+    "repeat": 1,
+    "fold": 9,
+    "acc": 73.02,
+    "auc": 78.31,
+    "seconds": 208.4
+  },
+  {
+    "repeat": 2,
+    "fold": 0,
+    "acc": 73.41,
+    "auc": 79.41,
+    "seconds": 214.7
+  },
+  {
+    "repeat": 2,
+    "fold": 1,
+    "acc": 75.09,
+    "auc": 78.44,
+    "seconds": 211.4
+  },
+  {
+    "repeat": 2,
+    "fold": 2,
+    "acc": 74.43,
+    "auc": 78.85,
+    "seconds": 194.7
+  },
+  {
+    "repeat": 2,
+    "fold": 3,
+    "acc": 73.68,
+    "auc": 78.82,
+    "seconds": 219.5
+  },
+  {
+    "repeat": 2,
+    "fold": 4,
+    "acc": 73.36,
+    "auc": 77.63,
+    "seconds": 212.6
+  },
+  {
+    "repeat": 2,
+    "fold": 5,
+    "acc": 74.2,
+    "auc": 77.93,
+    "seconds": 207.1
+  },
+  {
+    "repeat": 2,
+    "fold": 6,
+    "acc": 73.56,
+    "auc": 78.69,
+    "seconds": 202.6
+  },
+  {
+    "repeat": 2,
+    "fold": 7,
+    "acc": 74.11,
+    "auc": 79.09,
+    "seconds": 194.0
+  },
+  {
+    "repeat": 2,
+    "fold": 8,
+    "acc": 76.25,
+    "auc": 78.58,
+    "seconds": 198.7
+  },
+  {
+    "repeat": 2,
+    "fold": 9,
+    "acc": 74.6,
+    "auc": 79.23,
+    "seconds": 215.0
+  },
+  {
+    "repeat": 3,
+    "fold": 0,
+    "acc": 75.02,
+    "auc": 77.33,
+    "seconds": 197.1
+  },
+  {
+    "repeat": 3,
+    "fold": 1,
+    "acc": 74.49,
+    "auc": 77.45,
+    "seconds": 211.6
+  },
+  {
+    "repeat": 3,
+    "fold": 2,
+    "acc": 74.61,
+    "auc": 78.79,
+    "seconds": 191.4
+  },
+  {
+    "repeat": 3,
+    "fold": 3,
+    "acc": 74.33,
+    "auc": 78.26,
+    "seconds": 217.9
+  },
+  {
+    "repeat": 3,
+    "fold": 4,
+    "acc": 74.11,
+    "auc": 77.37,
+    "seconds": 205.0
+  },
+  {
+    "repeat": 3,
+    "fold": 5,
+    "acc": 73.39,
+    "auc": 79.13,
+    "seconds": 215.5
+  },
+  {
+    "repeat": 3,
+    "fold": 6,
+    "acc": 73.99,
+    "auc": 77.24,
+    "seconds": 211.8
+  },
+  {
+    "repeat": 3,
+    "fold": 7,
+    "acc": 73.9,
+    "auc": 77.28,
+    "seconds": 193.0
+  },
+  {
+    "repeat": 3,
+    "fold": 8,
+    "acc": 73.15,
+    "auc": 78.63,
+    "seconds": 201.8
+  },
+  {
+    "repeat": 3,
+    "fold": 9,
+    "acc": 73.34,
+    "auc": 78.16,
+    "seconds": 217.0
+  },
+  {
+    "repeat": 4,
+    "fold": 0,
+    "acc": 74.83,
+    "auc": 78.84,
+    "seconds": 210.7
+  },
+  {
+    "repeat": 4,
+    "fold": 1,
+    "acc": 74.25,
+    "auc": 76.81,
+    "seconds": 204.5
+  },
+  {
+    "repeat": 4,
+    "fold": 2,
+    "acc": 73.95,
+    "auc": 79.07,
+    "seconds": 207.0
+  },
+  {
+    "repeat": 4,
+    "fold": 3,
+    "acc": 73.98,
+    "auc": 78.86,
+    "seconds": 200.3
+  },
+  {
+    "repeat": 4,
+    "fold": 4,
+    "acc": 73.04,
+    "auc": 79.26,
+    "seconds": 212.9
+  },
+  {
+    "repeat": 4,
+    "fold": 5,
+    "acc": 74.51,
+    "auc": 79.2,
+    "seconds": 219.3
+  },
+  {
+    "repeat": 4,
+    "fold": 6,
+    "acc": 75.01,
+    "auc": 78.47,
+    "seconds": 217.9
+  },
+  {
+    "repeat": 4,
+    "fold": 7,
+    "acc": 73.99,
+    "auc": 78.34,
+    "seconds": 197.9
+  },
+  {
+    "repeat": 4,
+    "fold": 8,
+    "acc": 73.8,
+    "auc": 76.71,
+    "seconds": 218.6
+  },
+  {
+    "repeat": 4,
+    "fold": 9,
+    "acc": 73.79,
+    "auc": 79.07,
+    "seconds": 217.9
+  },
+  {
+    "repeat": 5,
+    "fold": 0,
+    "acc": 73.98,
+    "auc": 79.24,
+    "seconds": 190.4
+  },
+  {
+    "repeat": 5,
+    "fold": 1,
+    "acc": 73.36,
+    "auc": 79.01,
+    "seconds": 203.5
+  },
+  {
+    "repeat": 5,
+    "fold": 2,
+    "acc": 72.98,
+    "auc": 78.64,
+    "seconds": 195.5
+  },
+  {
+    "repeat": 5,
+    "fold": 3,
+    "acc": 73.58,
+    "auc": 78.33,
+    "seconds": 190.4
+  },
+  {
+    "repeat": 5,
+    "fold": 4,
+    "acc": 74.3,
+    "auc": 77.38,
+    "seconds": 215.9
+  },
+  {
+    "repeat": 5,
+    "fold": 5,
+    "acc": 72.59,
+    "auc": 77.3,
+    "seconds": 193.8
+  },
+  {
+    "repeat": 5,
+    "fold": 6,
+    "acc": 73.42,
+    "auc": 78.61,
+    "seconds": 197.0
+  },
+  {
+    "repeat": 5,
+    "fold": 7,
+    "acc": 74.71,
+    "auc": 78.18,
+    "seconds": 204.3
+  },
+  {
+    "repeat": 5,
+    "fold": 8,
+    "acc": 73.67,
+    "auc": 79.21,
+    "seconds": 217.3
+  },
+  {
+    "repeat": 5,
+    "fold": 9,
+    "acc": 73.19,
+    "auc": 77.25,
+    "seconds": 216.3
+  },
+  {
+    "repeat": 6,
+    "fold": 0,
+    "acc": 75.08,
+    "auc": 77.97,
+    "seconds": 216.1
+  },
+  {
+    "repeat": 6,
+    "fold": 1,
+    "acc": 73.53,
+    "auc": 77.16,
+    "seconds": 213.6
+  },
+  {
+    "repeat": 6,
+    "fold": 2,
+    "acc": 71.62,
+    "auc": 78.04,
+    "seconds": 215.6
+  },
+  {
+    "repeat": 6,
+    "fold": 3,
+    "acc": 74.16,
+    "auc": 77.95,
+    "seconds": 206.7
+  },
+  {
+    "repeat": 6,
+    "fold": 4,
+    "acc": 74.52,
+    "auc": 77.89,
+    "seconds": 198.4
+  },
+  {
+    "repeat": 6,
+    "fold": 5,
+    "acc": 74.31,
+    "auc": 78.36,
+    "seconds": 214.7
+  },
+  {
+    "repeat": 6,
+    "fold": 6,
+    "acc": 71.48,
+    "auc": 79.43,
+    "seconds": 219.4
+  },
+  {
+    "repeat": 6,
+    "fold": 7,
+    "acc": 74.98,
+    "auc": 78.53,
+    "seconds": 202.8
+  },
+  {
+    "repeat": 6,
+    "fold": 8,
+    "acc": 74.39,
+    "auc": 77.74,
+    "seconds": 211.7
+  },
+  {
+    "repeat": 6,
+    "fold": 9,
+    "acc": 74.64,
+    "auc": 77.33,
+    "seconds": 194.5
+  },
+  {
+    "repeat": 7,
+    "fold": 0,
+    "acc": 71.67,
+    "auc": 77.68,
+    "seconds": 198.3
+  },
+  {
+    "repeat": 7,
+    "fold": 1,
+    "acc": 74.13,
+    "auc": 77.35,
+    "seconds": 195.9
+  },
+  {
+    "repeat": 7,
+    "fold": 2,
+    "acc": 74.3,
+    "auc": 77.87,
+    "seconds": 208.9
+  },
+  {
+    "repeat": 7,
+    "fold": 3,
+    "acc": 73.89,
+    "auc": 79.45,
+    "seconds": 207.2
+  },
+  {
+    "repeat": 7,
+    "fold": 4,
+    "acc": 71.74,
+    "auc": 78.16,
+    "seconds": 193.9
+  },
+  {
+    "repeat": 7,
+    "fold": 5,
+    "acc": 73.16,
+    "auc": 78.91,
+    "seconds": 190.8
+  },
+  {
+    "repeat": 7,
+    "fold": 6,
+    "acc": 75.43,
+    "auc": 78.58,
+    "seconds": 200.8
+  },
+  {
+    "repeat": 7,
+    "fold": 7,
+    "acc": 73.66,
+    "auc": 78.14,
+    "seconds": 200.3
+  },
+  {
+    "repeat": 7,
+    "fold": 8,
+    "acc": 74.61,
+    "auc": 78.71,
+    "seconds": 192.9
+  },
+  {
+    "repeat": 7,
+    "fold": 9,
+    "acc": 73.69,
+    "auc": 78.52,
+    "seconds": 190.1
+  },
+  {
+    "repeat": 8,
+    "fold": 0,
+    "acc": 73.88,
+    "auc": 78.15,
+    "seconds": 205.2
+  },
+  {
+    "repeat": 8,
+    "fold": 1,
+    "acc": 74.36,
+    "auc": 77.32,
+    "seconds": 212.4
+  },
+  {
+    "repeat": 8,
+    "fold": 2,
+    "acc": 73.97,
+    "auc": 77.69,
+    "seconds": 219.9
+  },
+  {
+    "repeat": 8,
+    "fold": 3,
+    "acc": 74.53,
+    "auc": 78.83,
+    "seconds": 215.9
+  },
+  {
+    "repeat": 8,
+    "fold": 4,
+    "acc": 73.17,
+    "auc": 77.98,
+    "seconds": 211.5
+  },
+  {
+    "repeat": 8,
+    "fold": 5,
+    "acc": 74.45,
+    "auc": 77.87,
+    "seconds": 207.5
+  },
+  {
+    "repeat": 8,
+    "fold": 6,
+    "acc": 75.72,
+    "auc": 77.55,
+    "seconds": 202.3
+  },
+  {
+    "repeat": 8,
+    "fold": 7,
+    "acc": 73.85,
+    "auc": 78.81,
+    "seconds": 193.8
+  },
+  {
+    "repeat": 8,
+    "fold": 8,
+    "acc": 74.3,
+    "auc": 78.55,
+    "seconds": 219.4
+  },
+  {
+    "repeat": 8,
+    "fold": 9,
+    "acc": 74.36,
+    "auc": 77.9,
+    "seconds": 194.9
+  },
+  {
+    "repeat": 9,
+    "fold": 0,
+    "acc": 73.89,
+    "auc": 79.03,
+    "seconds": 205.9
+  },
+  {
+    "repeat": 9,
+    "fold": 1,
+    "acc": 74.1,
+    "auc": 78.67,
+    "seconds": 217.5
+  },
+  {
+    "repeat": 9,
+    "fold": 2,
+    "acc": 75.95,
+    "auc": 78.61,
+    "seconds": 200.2
+  },
+  {
+    "repeat": 9,
+    "fold": 3,
+    "acc": 74.55,
+    "auc": 79.46,
+    "seconds": 201.8
+  },
+  {
+    "repeat": 9,
+    "fold": 4,
+    "acc": 73.68,
+    "auc": 78.94,
+    "seconds": 194.6
+  },
+  {
+    "repeat": 9,
+    "fold": 5,
+    "acc": 72.38,
+    "auc": 78.34,
+    "seconds": 217.5
+  },
+  {
+    "repeat": 9,
+    "fold": 6,
+    "acc": 74.06,
+    "auc": 79.75,
+    "seconds": 192.3
+  },
+  {
+    "repeat": 9,
+    "fold": 7,
+    "acc": 73.55,
+    "auc": 79.11,
+    "seconds": 219.1
+  },
+  {
+    "repeat": 9,
+    "fold": 8,
+    "acc": 72.99,
+    "auc": 77.12,
+    "seconds": 215.1
+  },
+  {
+    "repeat": 9,
+    "fold": 9,
+    "acc": 72.99,
+    "auc": 79.23,
+    "seconds": 191.3
+  }
+]

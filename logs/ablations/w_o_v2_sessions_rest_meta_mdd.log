@@ -1,0 +1,9 @@
+[2026-07-18T22:45:03.632573] INFO  variant=w_o_v2_sessions, dataset=rest_meta_mdd
+[2026-07-18T22:45:03.632573] INFO  running 6 LOSO folds, 100 epochs each
+[2026-07-18T23:27:10.148415] INFO  fold 0  acc=65.81  auc=72.94  site_bacc=24.09
+[2026-07-19T00:11:51.057689] INFO  fold 1  acc=67.15  auc=72.38  site_bacc=18.74
+[2026-07-19T00:54:56.494625] INFO  fold 2  acc=64.35  auc=71.62  site_bacc=20.67
+[2026-07-19T01:44:09.613887] INFO  fold 3  acc=65.98  auc=71.03  site_bacc=21.49
+[2026-07-19T02:31:26.226557] INFO  fold 4  acc=64.13  auc=72.56  site_bacc=16.04
+[2026-07-19T03:19:44.339725] INFO  fold 5  acc=68.71  auc=72.71  site_bacc=22.93
+[2026-07-19T03:19:44.339725] INFO  mean  acc=67.46  auc=72.31  site_bacc=20.39

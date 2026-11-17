@@ -1,0 +1,9 @@
+[2026-07-20T01:37:00.542277] INFO  variant=w_o_v5_combat_pairs, dataset=rest_meta_mdd
+[2026-07-20T01:37:00.542277] INFO  running 6 LOSO folds, 100 epochs each
+[2026-07-20T02:23:41.551176] INFO  fold 0  acc=70.61  auc=71.59  site_bacc=19.14
+[2026-07-20T03:09:01.434384] INFO  fold 1  acc=67.58  auc=71.38  site_bacc=21.81
+[2026-07-20T03:51:28.850193] INFO  fold 2  acc=69.43  auc=70.86  site_bacc=20.46
+[2026-07-20T04:35:28.193911] INFO  fold 3  acc=68.69  auc=73.23  site_bacc=20.75
+[2026-07-20T05:24:45.062096] INFO  fold 4  acc=68.85  auc=72.61  site_bacc=17.35
+[2026-07-20T06:05:02.826134] INFO  fold 5  acc=67.51  auc=72.13  site_bacc=18.33
+[2026-07-20T06:05:02.826134] INFO  mean  acc=67.93  auc=72.72  site_bacc=20.08

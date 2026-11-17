@@ -1,0 +1,9 @@
+[2026-07-20T15:25:56.168971] INFO  variant=w_o_hsic_terms, dataset=abide
+[2026-07-20T15:25:56.168971] INFO  running 6 LOSO folds, 100 epochs each
+[2026-07-20T16:10:11.715275] INFO  fold 0  acc=70.43  auc=74.59  site_bacc=25.13
+[2026-07-20T16:59:20.589602] INFO  fold 1  acc=70.60  auc=74.77  site_bacc=26.62
+[2026-07-20T17:44:32.333285] INFO  fold 2  acc=69.78  auc=73.72  site_bacc=20.35
+[2026-07-20T18:28:35.733139] INFO  fold 3  acc=69.23  auc=77.71  site_bacc=25.83
+[2026-07-20T19:18:16.642182] INFO  fold 4  acc=69.01  auc=76.13  site_bacc=23.57
+[2026-07-20T20:00:58.495770] INFO  fold 5  acc=71.49  auc=76.66  site_bacc=22.27
+[2026-07-20T20:00:58.495770] INFO  mean  acc=70.67  auc=75.24  site_bacc=24.26

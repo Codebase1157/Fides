@@ -1,0 +1,8 @@
+# Scanner-disjoint Stage 1 retrain for Table XI.
+# Keeps only the four TS scanners that did NOT acquire multi-disorder data.
+
+base: stage1_pretrain.yaml
+keep_ts_scanners: [KPU, KUS, YC1, YC2]
+pair_manifests:
+  v3: data/processed/views/v3_ts_pairs_disjoint.json
+out: results/scanner/scanner_disjoint_stage1

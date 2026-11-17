@@ -1,0 +1,43 @@
+# Stage 1 pretraining on SRPBS traveling-subject and HCP S1200 data.
+# Reproduces the pretrained encoder used by all LOSO, 10-fold, and
+# cross-dataset experiments reported in the manuscript.
+
+device: cuda
+amp: true
+
+model:
+  n_rois: 200
+  encoder:
+    n_rois: 200
+    d_model: 128
+    n_heads: 4
+    n_layers: 2
+    n_hops: 3
+    dropout: 0.2
+    readout_dim: 128
+  d_dis: 32
+  d_id: 32
+  d_site: 16
+  d_state: 16
+
+loss:
+  w_v1: 1.0     # within-scan halves
+  w_v2: 1.0     # within-participant sessions
+  w_v3: 1.0     # traveling-subject pairs
+  w_v5: 1.0     # ComBat harmonization
+  w_rec: 0.1    # reconstruction weight
+  mu: 2.0       # HSIC penalty weight (A5 proxy)
+  temperature: 0.10
+
+train:
+  epochs: 200
+  steps_per_epoch: 350
+  batch_size: 32
+  lr: 1.0e-4
+  weight_decay: 1.0e-4
+
+pair_manifests:
+  v1: data/processed/views/v1_halves.json
+  v2: data/processed/views/v2_sessions.json
+  v3: data/processed/views/v3_ts_pairs.json
+  v5: data/processed/views/v5_combat.json

@@ -1,0 +1,6 @@
+dataset,role,sites_or_scanners,n_participants,n_asd,n_mdd,n_nc,notes
+ABIDE,Diagnosis (ASD vs NC); V1/V4/V5,6 sites,532,267,,265,NYU/UM1/UCLA1/USM/PITT/YALE
+REST-meta-MDD,Diagnosis (MDD vs NC); V1/V4/V5,6 sites,1229,,647,582,S20/S21/S25/S1/S8/S9
+SRPBS_multi_disorder,External test,8 sites (8 scanners shared with TS),736,112,196,428,After QC
+SRPBS_traveling_subjects,V3 pairs; invariance audit,12 scanners,9,0,0,9,143 sessions total
+HCP_S1200,V2 pairs; fingerprint audit,1 site,1113,0,0,1113,Two sessions each
