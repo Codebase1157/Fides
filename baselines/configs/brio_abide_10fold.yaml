@@ -1,0 +1,8 @@
+lr: 0.0002
+weight_decay: 0.0001
+batch_size: 32
+epochs: 80
+site_lambda: 0.5
+dataset: abide
+protocol: 10fold
+seed: 20260101

@@ -1,0 +1,7 @@
+lr: 5.0e-05
+weight_decay: 1.0e-05
+batch_size: 16
+epochs: 50
+dataset: abide
+protocol: cross
+seed: 20260101
