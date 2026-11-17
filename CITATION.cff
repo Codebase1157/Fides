@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the FIDES paper."
+title: "FIDES: Identifiable Disentanglement of Disease, Identity, Site, and State in Functional Brain Networks via Natural-View Contrastive Learning"
+authors:
+  - family-names: Author
+    given-names: First
+  - family-names: Author
+    given-names: Second
+  - family-names: Author
+    given-names: Third
+  - family-names: Author
+    given-names: Corresponding
+year: 2026
+version: "1.0.0"
+repository-code: "https://github.com/FIDES-brain/fides-code"
+license: MIT
+preferred-citation:
+  type: article
+  title: "FIDES: Identifiable Disentanglement of Disease, Identity, Site, and State in Functional Brain Networks via Natural-View Contrastive Learning"
+  journal: "IEEE Transactions on Medical Imaging"
+  year: 2026
+  authors:
+    - family-names: Author
+      given-names: First
+    - family-names: Author
+      given-names: Second
